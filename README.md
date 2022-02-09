@@ -1,4 +1,4 @@
-![Jr. Developer C# | ASP .NET Core | MVC | Web API | Angular](https://media-exp1.licdn.com/dms/image/C511BAQFU4RKGLnP-1Q/company-background_10000/0/1519800162011?e=2159024400&v=beta&t=nGkZUYCP8PD77Nr63URj8ypGKm29elMC4niP20jcqJI)
+
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br/> I'm Eftekher Alam, Jr. Developer C# | ASP .NET Core | MVC | Web API | Angular</h1>
 <h3 align=" justify">Hard-working individual with proficiency in ASP.NET Core, MVC, APIs and Angular as well as ability to communicate effectively in a team setting, and possessing a strong willingness to learn about entrepreneurship and business seeks.</h3>
 
