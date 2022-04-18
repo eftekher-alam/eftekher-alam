@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C#, SQL Server, ASP.NET MVC, ASP.NET CORE, Angular**
 
-- 📫 How to reach me **eftekher@yahoo.com**
+- 📫 How to reach me **eftekher@yahoo.com** or **eftekher.e@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
