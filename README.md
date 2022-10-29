@@ -2,7 +2,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br/> I'm Eftekher Alam, Developer C# | ASP .NET Core | MVC | Web API | Angular</h1>
 <h3 align=" justify">Hard-working individual with proficiency in ASP.NET Core, MVC, APIs and Angular as well as ability to communicate effectively in a team setting, and possessing a strong willingness to learn about entrepreneurship and business seeks.</h3>
 
-- 🔭 I’m currently working on [ExpenseTracker](https://github.com/eftekher-alam/expense-tracker)
+- 🔭 I’m currently working on ASP.NET core
 
 - 🌱 I’m currently learning **Angular**
 
