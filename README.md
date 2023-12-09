@@ -15,7 +15,7 @@
 <h3 align="center">Back-End Development</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/eftekher-alam/eftekher-alam/54b04577ef8f9890cc6ee9e254612eecb54cd8e3/images/mssqlserver.svg" alt="mssql" width="50" height="50"/> </a>
+    <img src="https://raw.githubusercontent.com/eftekher-alam/eftekher-alam/b68d7e0661d54bf62fbc961d8125dda1ac160e81/images/microsoft-sql-server-logo.svg" alt="mssql" width="48" height="48"/>
 </p>
 
 
