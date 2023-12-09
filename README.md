@@ -3,7 +3,7 @@
 
 ## :eyes: Current overview
 
-#### 🌱 I’m exploring - ReactJs, NextJs. 
+#### 🌱 I’m exploring - NextJs. 
 #### 👯 I’m looking - For an internship or full-time MERN developer position to collaborate and enhance skills. 
 #### 🤔 I’m trying - To mastering React for seamless UI, Node.js and Express.js for backend development, experimenting with MongoDB. 
 
@@ -25,7 +25,7 @@
 </p>
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,cs,java" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,java,c" />
 </p>
 
 ## :mailbox: Keep in touch
