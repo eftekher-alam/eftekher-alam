@@ -31,7 +31,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eftekher-alam&theme=transparent" alt="GitHub Streak" width="49%" />
 </p>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eftekher-alam&theme=transparent" alt="GitHub Streak" width="98%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eftekher-alam&theme=transparent" alt="GitHub Streak" width="95%" />
 </p>
 
 
