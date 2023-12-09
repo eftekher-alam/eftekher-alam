@@ -22,6 +22,16 @@
     <img src="https://skillicons.dev/icons?i=js,ts,cs,java,c" />
 </p>
 
+## :mailbox: Keep in touch
+<p align="center"> 
+    <a href="https://www.linkedin.com/in/eftekher/" target="blank" >
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>        
+    <a href="https://fb.com/eftekher2018" target="blank" >
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="47" width="47" />
+    </a>
+</p>
+
 ## :chart_with_upwards_trend: Current Stats
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=eftekher-alam&theme=transparent&hide_border=true" alt="GitHub Streak" width="70%" />
@@ -35,15 +45,7 @@
 </p>
 
 
-## :mailbox: Keep in touch
-<p align="center"> 
-    <a href="https://www.linkedin.com/in/eftekher/" target="blank" >
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>        
-    <a href="https://fb.com/eftekher2018" target="blank" >
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="47" width="47" />
-    </a>
-</p>
+
 
 
 
