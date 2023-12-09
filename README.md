@@ -23,16 +23,16 @@
 </p>
 
 ## :chart_with_upwards_trend: Current Stats
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=eftekher-alam&theme=transparent" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=eftekher-alam&theme=transparent&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eftekher-alam&theme=transparent" alt="GitHub Streak" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eftekher-alam&theme=transparent" alt="GitHub Streak" width="49%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eftekher-alam&theme=transparent" alt="GitHub Streak" width="49%" />
 </p>
-
-
-
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eftekher-alam&theme=transparent" alt="GitHub Streak" width="98%" />
+</p>
 
 
 ## :mailbox: Keep in touch
