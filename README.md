@@ -28,7 +28,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=eftekher-alam&theme=transparent" alt="GitHub Streak" />
 </p>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eftekher-alam&theme=transparent" alt="GitHub Streak" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eftekher-alam&theme=transparent" alt="GitHub Streak" width="100%" />
 </p>
 
 
