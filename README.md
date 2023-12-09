@@ -7,12 +7,6 @@
 #### 👯 I’m looking - For an internship or full-time MERN developer position to collaborate and enhance skills. 
 #### 🤔 I’m trying - To mastering React for seamless UI, Node.js and Express.js for backend development, experimenting with MongoDB. 
 
-## :chart_with_upwards_trend: Current Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=eftekher-alam&theme=transparent" alt="GitHub Streak" />
-</p>
-
 ## :computer: Technologies that I know
 <h3 align="center">Front-End Development</h3>
 <p align="center">
@@ -27,6 +21,19 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,cs,java,c" />
 </p>
+
+## :chart_with_upwards_trend: Current Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=eftekher-alam&theme=transparent" alt="GitHub Streak" />
+</p>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eftekher-alam&theme=transparent" alt="GitHub Streak" />
+</p>
+
+
+
+
 
 ## :mailbox: Keep in touch
 <p align="center"> 
