@@ -4,7 +4,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=eftekher-alam&theme=dracula" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=eftekher-alam&theme=transparent" alt="GitHub Streak" />
 </p>
 
 ## :computer: Technologies that I know
