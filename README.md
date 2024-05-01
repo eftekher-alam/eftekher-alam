@@ -3,9 +3,9 @@
 
 ## :eyes: Current overview
 
-#### 🌱 I’m exploring - NextJs. 
-#### 👯 I’m looking - For an internship or full-time MERN developer position to collaborate and enhance skills. 
-#### 🤔 I’m trying - To mastering React for seamless UI, Node.js and Express.js for backend development, experimenting with MongoDB. 
+#### 🌱 I’m exploring - Typescript, Redux, Next.js, Mongoose, AWS, Docker, Redis, DBMS, SQL, PostgreSQL, Prisma 
+#### 👯 I’m looking - For a full-time MERN developer position to collaborate and enhance my skills. 
+#### 🤔 I’m trying - To mastering Next.js, Redux for seamless UI, Node.js, and Express.js, Mongoose, MongoDB for backend development, experimenting with PostgreSQL and Prisma. 
 
 ## :computer: Technologies that I know
 <h3 align="center">Front-End Development</h3>
